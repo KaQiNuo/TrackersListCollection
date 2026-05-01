@@ -34,6 +34,8 @@ udp://obey.torrentonline.cc:42069/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.ftorrent.com:443/announce
+
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
@@ -131,6 +133,8 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
 
